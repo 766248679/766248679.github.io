@@ -1,5 +1,5 @@
 <template>
-    <div class="page">
+    <div class="page" style="text-align:center">
         <h1 :class="['wow','animate__animated',list[i]] " data-wow-offset="100" v-for="i in 43" :key="i"></h1>
     </div>
 </template>
